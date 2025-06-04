@@ -47,7 +47,7 @@ health_risk_prediction.ipynb – Main notebook containing all code
 
 patient_data.csv – Synthetic dataset generated for the model
 
-Visual outputs (optional) – Screenshots of results
+Visual outputs
 
 - Tools & Libraries Used
   
