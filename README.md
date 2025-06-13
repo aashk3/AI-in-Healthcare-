@@ -59,7 +59,7 @@ NumPy
 
 Pandas
 
-Matplotlib / Seaborn (for optional visualizations)
+Matplotlib / Seaborn 
 
 - Next Steps
   
